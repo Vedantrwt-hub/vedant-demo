@@ -1,4 +1,4 @@
 # vedant-demo
 This is my first repository.
 <br>
-Author-Vedant rawat
+Author-Vedant (rawat rawat)
